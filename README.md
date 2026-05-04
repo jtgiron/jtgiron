@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Joshua Giron 👋
 
 **Aspiring Software Engineer | Dedicated Learner | Open Source Enthusiast**
 
